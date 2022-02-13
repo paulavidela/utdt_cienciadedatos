@@ -1,0 +1,18 @@
+---
+title: "UTDT Ciencia de Datos"
+description: |
+  Sitio web de los cursos de Ciencia de Datos de la Maestría en Economía Urbana, la Maestría en Políticas Públicas, la Formación Ejecutiva en Políticas públicas y la Diplomatura en Ciudades
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+

@@ -1,0 +1,12 @@
+name: "utdt_cienciadedatos"
+title: "UTDT Ciencia de Datos"
+description: |
+  Cursos de Ciencia de datos en UTDT
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
