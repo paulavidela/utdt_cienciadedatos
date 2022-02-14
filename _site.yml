@@ -3,10 +3,28 @@ title: "UTDT Ciencia de Datos"
 description: |
   Cursos de Ciencia de datos en UTDT
 output_dir: "docs"
+theme: style.css
 navbar:
+  title: "Ciencia de Datos"
   right:
-    - text: "Home"
+    - text: "Cursos"
+      menu:
+        - text: "FEPP - Introducción a la ciencia de datos"
+          href: index.html
+        - text: "FEPP - Ciencia de datos para ciudades"
+          href: index.html
+        - text: "EPP - Taller de Ciencia de datos"
+          href: epp-taller.html
+        - text: "MEU - Ciencia de datos I"
+          href: index.html
+        - text: "MEU - Ciencia de datos II"
+          href: index.html
+        - text: "MPP - Ciencia de datos"
+          href: index.html
+    - text: "Bibliografía"
       href: index.html
-    - text: "About"
+    - text: "Quienes somos"
       href: about.html
+    - text: "UTDT"
+      href: "https://www.utdt.edu/ver_contenido.php?id_contenido=101&id_item_menu=432"
 output: distill::distill_article

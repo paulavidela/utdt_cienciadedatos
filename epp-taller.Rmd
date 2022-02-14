@@ -1,0 +1,16 @@
+---
+title: "Taller de Ciencia de datos"
+description: "Especialización en Políticas Públicas"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Es un curso intensivo que se llevará a cabo en formato presencial durante los siguientes días y horarios:
+- Jueves 07/04 de 15 a 21hs.  
+- Viernes 08/04 de 9 a 18hs.  
+- Sábado 09/04 de 9 a 18hs.  
+Cada encuentro tendrá una parte teórica donde los docentes presentarán los contenidos necesarios y donde diferentes invitados compartirán sus experiencias en el uso de datos en el sector público, y una parte práctica donde los alumnos trabajarán con las técnicas contempladas en el temario.
+
+

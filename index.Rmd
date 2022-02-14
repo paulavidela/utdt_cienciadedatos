@@ -1,7 +1,5 @@
 ---
-title: "UTDT Ciencia de Datos"
-description: |
-  Sitio web de los cursos de Ciencia de Datos de la Maestría en Economía Urbana, la Maestría en Políticas Públicas, la Formación Ejecutiva en Políticas públicas y la Diplomatura en Ciudades
+title: "Sobre los cursos de Ciencia de Datos"
 site: distill::distill_website
 ---
 
@@ -16,3 +14,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+
+
+
+```{r, layout="l-screen-inset"}
+knitr::include_graphics("images/city-science.jpg")
+
+```
+
+Sitio web de los cursos de Ciencia de Datos de la Maestría en Economía Urbana, la Maestría en Políticas Públicas, la Especialización en Políticas Públicas, la Formación Ejecutiva en Políticas públicas y la Diplomatura en Ciudades (Universidad Torcuato Di Tella)

@@ -2,19 +2,25 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Quienes somos",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-13T17:10:05-03:00"
+      "contents": "\r\nÁngeles Scetta\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\nPaula Videla\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-13T21:42:11-03:00"
+    },
+    {
+      "path": "epp-taller.html",
+      "title": "Taller de Ciencia de datos",
+      "description": "Especialización en Políticas Públicas",
+      "author": [],
+      "contents": "\r\nEs un curso intensivo que se llevará a cabo en formato presencial durante los siguientes días y horarios: - Jueves 07/04 de 15 a 21hs.\r\n- Viernes 08/04 de 9 a 18hs.\r\n- Sábado 09/04 de 9 a 18hs.\r\nCada encuentro tendrá una parte teórica donde los docentes presentarán los contenidos necesarios y donde diferentes invitados compartirán sus experiencias en el uso de datos en el sector público, y una parte práctica donde los alumnos trabajarán con las técnicas contempladas en el temario.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-13T21:42:11-03:00"
     },
     {
       "path": "index.html",
-      "title": "UTDT Ciencia de Datos",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Sobre los cursos de Ciencia de Datos",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-13T17:10:06-03:00"
+      "contents": "\r\n\r\n\r\n\r\nSitio web de los cursos de Ciencia de Datos de la Maestría en Economía Urbana, la Maestría en Políticas Públicas, la Especialización en Políticas Públicas, la Formación Ejecutiva en Políticas públicas y la Diplomatura en Ciudades (Universidad Torcuato Di Tella)\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-13T21:42:12-03:00"
     }
   ],
   "collections": []
