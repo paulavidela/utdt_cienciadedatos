@@ -21,10 +21,18 @@ html {
 }
 
 
+
 d-title {
   background: #A2C33A;
   font-weight: 800;
   color: #ffffff;
+}
+
+d-article h1 {
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid #A2C33A;
+  padding-bottom: 1rem;
 }
 
 .d-title h1 {
@@ -49,3 +57,14 @@ d-title {
   background: #A2C33A;
 }
 
+
+.nav-dropdown button:hover {
+  color: #000000 !important;
+  font-style: "bold";
+  background: #A2C33A;
+}
+
+
+.d-contents h3 {
+  visibility: hidden;
+}
