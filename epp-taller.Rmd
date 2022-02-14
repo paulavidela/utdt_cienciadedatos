@@ -24,7 +24,6 @@ Cada encuentro tendrá una parte teórica donde los docentes presentarán los co
 &nbsp;
 &nbsp;
 
-<<<<<<< HEAD
 [**PROGRAMA**](programas/2022-EPP-CLINICA_DE_DATOS.pdf)
 
 
@@ -49,7 +48,7 @@ Cada encuentro tendrá una parte teórica donde los docentes presentarán los co
 
 ## Día 1: jueves 7 de abril
 
->>>>>>> 9de0656e36515480836992006566f854a23d8b4b
+
 ### Clases teórico-prácticas
 
 #### Práctica 1
