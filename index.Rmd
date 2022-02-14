@@ -1,5 +1,6 @@
 ---
-title: "Sobre los cursos de Ciencia de Datos"
+title: "Cursos 2022"
+
 site: distill::distill_website
 ---
 
@@ -16,10 +17,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-
 ```{r, layout="l-screen-inset"}
 knitr::include_graphics("images/city-science.jpg")
 
 ```
 
-Sitio web de los cursos de Ciencia de Datos de la Maestría en Economía Urbana, la Maestría en Políticas Públicas, la Especialización en Políticas Públicas, la Formación Ejecutiva en Políticas públicas y la Diplomatura en Ciudades (Universidad Torcuato Di Tella)
+
+## Programa 2022
+
+Cursos de Ciencia de Datos en la Maestría de Economía Urbana, la Maestría en Políticas Públicas, la Especialización en Políticas Públicas, la Diplomatura en Ciudades y la Formación Ejecutiva en Políticas Públicas. 
+
+
+## Modalidad de las clases
+
+La dinámica de las clases es teórico-práctica
