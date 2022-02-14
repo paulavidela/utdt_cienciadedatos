@@ -7,10 +7,66 @@ description: "Especialización en Políticas Públicas"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Es un curso intensivo que se llevará a cabo en formato presencial durante los siguientes días y horarios:
+Es un curso intensivo que se llevará a cabo en formato presencial durante los siguientes días y horarios:  
 - Jueves 07/04 de 15 a 21hs.  
 - Viernes 08/04 de 9 a 18hs.  
 - Sábado 09/04 de 9 a 18hs.  
 Cada encuentro tendrá una parte teórica donde los docentes presentarán los contenidos necesarios y donde diferentes invitados compartirán sus experiencias en el uso de datos en el sector público, y una parte práctica donde los alumnos trabajarán con las técnicas contempladas en el temario.
 
 
+------------------------------------------------------------------------
+
+## Clases teórico-prácticas
+
+### Día 1
+
+#### Práctica 1
+Introducción a R y RStudio, instalación. Abrir el entorno y cargar un dataset.  
+
+Manuales de clase:  
+[Rpubs: Introducción a R](https://rpubs.com/angiescetta/presentacion-big-data-ciudad)
+
+
+
+#### Práctica 2
+Análisis exploratorio de datos: Data wrangling con tidyverse.
+
+Manuales de clase:  
+[Big data urbana: manipulación de datos](https://angiescetta.github.io/big-data-urbana/manipulaci%C3%B3n-de-datos.html)
+
+---
+
+### Día 2
+
+#### Práctica 3
+Visualización de datos: Introducción a ggplot.
+
+Manuales de clase:  
+[Big data urbana: Análisis y visualización](https://angiescetta.github.io/big-data-urbana/an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos.html)
+
+
+
+#### Práctica 4
+Introducción a la manipulación de fechas y horas con lubridate. 
+
+Manuales de clase:  
+[Rpubs: Introducción a lubridate](https://rpubs.com/paulavidela/fechas)
+
+
+---
+
+### Día 3
+
+#### Práctica 5
+Información geográfica: introducción a sf.  
+
+Manuales de clase:  
+[Big data urbana: información geográfica](https://angiescetta.github.io/big-data-urbana/informaci%C3%B3n-geogr%C3%A1fica-y-mapas.html)
+
+
+
+#### Práctica 6
+Información geográfica: geoprocesos con sf.  
+
+Manuales de clase:  
+[Rpubs: Geoprocesamientos](https://rpubs.com/paulavidela/funciones-sf)
