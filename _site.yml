@@ -6,6 +6,9 @@ output_dir: "docs"
 theme: style.css
 navbar:
   title: "Ciencia de Datos"
+  logo:
+    image: https://www.utdt.edu/Images/ui2014/logo.png
+    href: https://www.utdt.edu
   right:
     - text: "Cursos"
       menu:

@@ -1,5 +1,5 @@
 ---
-title: "Sobre los cursos de Ciencia de Datos"
+title: "Ciencia de datos para Ciudades"
 site: distill::distill_website
 ---
 
@@ -24,5 +24,14 @@ knitr::include_graphics("images/city-science.jpg")
 
 Cursos de Ciencia de Datos en la Maestría de Economía Urbana, la Maestría en Políticas Públicas, la Especialización en Políticas Públicas, la Diplomatura en Ciudades y la Formación Ejecutiva en Políticas Públicas.  
 **Universidad Torcuato Di Tella (UTDT) - Escuela de Gobierno**
+
+<br>
+
+### Objetivos
+En los últimos años se ha extendido el uso del análisis espacial, la visualización de datos y el análisis de modelos estadísticos para el estudio de las ciudades y la evaluación de políticas públicas. La era de la "Big Data" propicia la adquisición de nuevas habilidades, que permitan a planificadores, arquitectos, politólogos, sociólogos y otros profesionales desenvolverse con seguridad en este nuevo marco de la gestión urbana. Los cursos de Ciencia de Datos se ofrecen con el fin de iniciar a los participantes en el mundo de la explotación de grandes volúmenes de datos relacionados con el desarrollo de políticas públicas.  
+<br>
+
+**Objetivos específicos**  
+Emplear una mirada crítica para leer la lógica interna de los procesos informáticos que transforman nuestras ciudades y sus políticas públicas; y vislumbrar una gestión urbana inclusiva y justa en tal contexto. Adquirir los conocimientos teóricos básicos en la temática y las habilidades prácticas requeridas para realizar análisis de datos urbanos: obtenerlos, procesarlos, extraer conocimiento, comunicar y publicar los resultados. Aprender como programar con R, el lenguaje de programación libre para análisis estadístico y representación visual de datos.
 
 

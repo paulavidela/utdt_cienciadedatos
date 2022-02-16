@@ -1,0 +1,55 @@
+---
+title: "Desafío 3"
+subtitle: "Especialización en Políticas Públicas | Clínica de Datos | Sábado 9 de Abril 2022"
+output: html_document
+---
+
+---
+
+### Sobre los datos
+
+En este desafío, se trabajará con un dataset de delitos ocurridos en la Ciudad Autónoma de Buenos Aires en 2019 y 2020. El dataset cuenta con un preprocesamiento previo de estandarización de variables, limpieza de datos ubicados geográficamente fuera de la ciudad e incorporación de nuevas variables de trabajo.  
+Los datos originales pueden encontrarse en el portal [BADATA](https://data.buenosaires.gob.ar/dataset/delitos)  
+<br>
+
+Para este desafío, se incorporan dos dataset especiales: las comunas y los barrios. Se realizó un preprocesamiento a ambos dataset.  
+Los datos originales también pueden encontrarse en el portal de BADATA: [Comunas](https://data.buenosaires.gob.ar/dataset/comunas) y [Barrios](https://data.buenosaires.gob.ar/dataset/barrios)
+
+<br>
+
+#### Sobre la Ciudad Autónoma de Buenos Aires 
+
+La Ciudad Autónoma de Buenos Aires se encuentra organizada administrativa en Comunas (Fuente: [Wikipedia](https://es.wikipedia.org/wiki/Comunas_de_la_ciudad_de_Buenos_Aires) - [GCBA](https://www.buenosaires.gob.ar/comunas)). A su vez, las comunas se componen de 1 o más barrios.   
+
+
+<br>
+
+
+### Visualización de datos espaciales
+
+**Mapa de comunas y delitos**
+
+Realizar un mapa donde se visualicen los delitos de 2020. Usar como base la delimitación de las comunas. Comentar sobre los resultados. 
+
+
+
+### Mapas coropléticos  
+
+ 
+
+#### Parte A  
+
+Se busca determinar la cantidad de delitos por comuna en 2020 y en 2019, con el objetivo de visualizar donde se concentran la mayor cantidad de delitos,
+Comentar los resultados
+
+
+
+
+#### Parte B 
+
+Finalmente, se decide obtener más granularidad en los datos, y trabajar con la cantidad de delitos de nivel de barrio para el año 2020. Calcular la cantidad de delitos por km2, y la cantidad de delitos por habitantes. Analizar los resultados.  
+*Es necesario, primero, incorporar la variable de "barrios" al dataset de delitos a partir de un geoprocesamiento*
+
+
+
+

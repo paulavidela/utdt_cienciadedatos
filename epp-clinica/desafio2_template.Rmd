@@ -1,0 +1,94 @@
+---
+title: "Desafío 2"
+subtitle: "Especialización en Políticas Públicas | Clínica de Datos | Viernes 8 de Abril 2022"
+output: html_document
+---
+
+---
+
+### Sobre los datos
+
+En este desafío, se trabajará con un dataset de delitos ocurridos en la Ciudad Autónoma de Buenos Aires en 2019 y 2020. El dataset cuenta con un preprocesamiento previo de estandarización de variables, limpieza de datos ubicados geográficamente fuera de la ciudad e incorporación de nuevas variables de trabajo.  
+Los datos originales pueden encontrarse en el portal [BADATA](https://data.buenosaires.gob.ar/dataset/delitos) 
+
+<br>
+
+#### Sobre la gestión de la Pandemia Covid-19 en Argentina
+
+El [primer caso de Covid-19 en Argentina](https://www.argentina.gob.ar/noticias/salud-confirma-el-primer-caso-de-coronavirus-en-el-pais), se detectó en la Ciudad Autónoma de Buenos Aires el 2 de marzo de 2020.  
+El 11 de marzo 2020, la OMS declaro al Covid-19 como pandemia.  
+El 19 de marzo de 2020 se declaró el Aislamiento Social Preventivo y Obligatorio en toda la Argentina por [Decreto 267/2020](https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320)
+
+
+
+<br>
+
+### Transformaciones de fecha
+
+**Transformar la variable 'fecha' a tipo fecha**
+
+```{r}
+
+```
+
+
+**Determinar el día de la semana de cada delito**
+
+```{r}
+
+```
+
+
+**Mostrar un resumen estádistico de los resultados**  
+¿Qué dia de la semana ocurrieron más delitos? 
+
+```{r}
+
+```
+
+
+
+### Visualizaciones
+
+**Gráfico de barras**  
+
+Realizar un gráfico de barras que muestre la cantidad de delitos por periodo.  
+Comentar sobre lo observado. 
+
+```{r}
+
+```
+
+
+
+**Gráfico de puntos**  
+
+Realizar un gráfico puntos a partir de la latitud (y) y la longitud (x). 
+Comentar la forma resultante. 
+
+
+```{r}
+
+```
+
+
+**Gráfico línea**  
+
+Realizar un gráfico línea que muestre la variación diaria de delitos entre el 1 de Marzo de 2020 y el 30 de Abril de 2020. Comentar los resultados
+
+
+```{r}
+
+```
+
+**Bonus!**  
+**Gráfico de cajas**
+
+Evaluar la distribución de la cantidad de delitos según día de la semana. Comentar los resultados
+
+```{r}
+
+```
+
+
+
