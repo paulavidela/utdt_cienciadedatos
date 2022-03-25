@@ -52,7 +52,7 @@ Manuales de clase:
 
 
 ### Desafío
-[Consignas](epp-clinica/desafio1_template.html) - [Descargar Rmd](epp-clinica/desafio1_template.Rmd) -
+[Consignas](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/desafio1.pdf) - [Descargar Rmd](epp-clinica/desafio1_template.Rmd) - [Descargar dataset](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/delitos2019-2020.csv) - [Link a repositorio](https://data.world/paulavidela/delitosgcba-2020-2019)
 
 &nbsp;
 &nbsp;
@@ -78,7 +78,7 @@ Manuales de clase:
 
 
 ### Desafío
-Link
+[Consignas](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/desafio2.pdf) - [Descargar Rmd](epp-clinica/desafio2_template.Rmd) - [Descargar dataset](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/delitos2019-2020.csv)
 
 
 &nbsp;
@@ -104,7 +104,8 @@ Manuales de clase:
 
 
 ### Desafío
-Link
+[Consignas](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/desafio3.pdf) - [Descargar Rmd](epp-clinica/desafio3_template.Rmd)  
+[Descargar dataset 1: delitos](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/delitos2019-2020.csv) - [Descargar dataset 2: barrios](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/barrios.geojson) -  [Descargar dataset 3: barrios](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/comunas.geojson)
 
 
 

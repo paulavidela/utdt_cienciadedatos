@@ -53,7 +53,7 @@ El 19 de marzo de 2020 se declaró el Aislamiento Social Preventivo y Obligatori
 **Gráfico de barras**  
 
 Realizar un gráfico de barras que muestre la cantidad de delitos por periodo.  
-Comentar sobre lo observado. 
+Comentar sobre lo observado. ¿Cuál es el efecto de la gestión de la pandemia en relación a la cantidad de delitos?
 
 ```{r}
 
@@ -74,7 +74,7 @@ Comentar la forma resultante.
 
 **Gráfico línea**  
 
-Realizar un gráfico línea que muestre la variación diaria de delitos entre el 1 de Marzo de 2020 y el 30 de Abril de 2020. Comentar los resultados
+Realizar un gráfico línea que muestre la variación diaria de delitos entre el 1 de Marzo de 2020 y el 30 de Abril de 2020. Comentar los resultados. ¿Cuál es el efecto de la gestión de la pandemia en relación a la cantidad de delitos?
 
 
 ```{r}
@@ -84,7 +84,7 @@ Realizar un gráfico línea que muestre la variación diaria de delitos entre el
 **Bonus!**  
 **Gráfico de cajas**
 
-Evaluar la distribución de la cantidad de delitos según día de la semana. Comentar los resultados
+Evaluar la distribución de la cantidad de delitos según día de la semana. Comentar los resultados.
 
 ```{r}
 
