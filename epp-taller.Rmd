@@ -5,7 +5,7 @@ output:
   distill::distill_article:
     toc: true
     toc_depth: 2
-    toc-title: "test"
+
 ---
 
 ```{r setup, include=FALSE}
@@ -89,17 +89,10 @@ Manuales de clase:
 ### Clases teórico-prácticas
 
 #### Práctica 5
-Información geográfica: introducción a sf.  
+Información geográfica: introducción a sf - geoprocesos 
 
 Manuales de clase:  
 [Big data urbana: información geográfica](https://angiescetta.github.io/big-data-urbana/informaci%C3%B3n-geogr%C3%A1fica-y-mapas.html)
-
-
-
-#### Práctica 6
-Información geográfica: geoprocesos con sf.  
-
-Manuales de clase:  
 [Rpubs: Geoprocesamientos](https://rpubs.com/paulavidela/funciones-sf)
 
 

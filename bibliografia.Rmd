@@ -1,0 +1,36 @@
+---
+title: "Bibliografía"
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+## MANUALES DE INTERÉS
+
+### Primeros pasos en R
+
+[Big Data Urbana (Angie Scetta)](https://angiescetta.github.io/big-data-urbana)  
+[Ciencia de datos para gente sociable (Antonio Vazquez Brust)](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable)   
+[R for Data Science (Hadley Wickham y Garret Grolemund)](https://r4ds.had.co.nz)  
+[R for Data Science (versión en español)](https://es.r4ds.hadley.nz/)  
+[R programming (Roger Peng)](https://leanpub.com/rprogramming)  
+
+### Operaciones avanzadas 
+[Analítica Urbana (Antonio Vazquez Brust y Angie Scetta)](https://analiticaurbana.netlify.app)  
+[Geocomputation with R (Robin Lovelace, Jakud Nowosad, Jannes Muenchow)](https://geocompr.robinlovelace.net/)  
+[Spatial Data Science with R](https://rspatial.org/raster/index.html)  
+[Urban Spatial Analysis Blog](http://urbanspatialanalysis.com/blog/ )  
+
+
+</br> 
+
+## OTROS LINKS
+
+[INSTALACIÓN DE R Y RSTUDIO](https://docs.google.com/document/d/1XtZyCzL6yJwDHsxtwsNO-qdpumNusnlstRrSWjjIyRg/edit)
+
+
+

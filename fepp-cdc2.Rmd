@@ -1,0 +1,63 @@
+---
+title: "Ciencia de Datos para Ciudades"
+description: "Formación Ejecutiva en Políticas Públicas"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Sobre el curso
+
+Es un curso introductorio a herramientas de Ciencias de Datos orientado a las políticas públicas. Se llevará a cabo en formato virtual durante los siguientes días y horarios:  
+- Miércoles 07/09 de 19 a 21hs.   
+- Miércoles 14/09 de 19 a 21hs.  
+- Miércoles 21/09 de 19 a 21hs.   
+- Miércoles 28/09 de 19 a 21hs.  
+- Miércoles 05/10 de 19 a 21hs.   
+&nbsp;
+
+Para cada clase se prevé una breve introducción teórica. Luego se desarrollará un taller, durante el cual se pondrán en práctica las técnicas contempladas en el temario. Para fomentar la práctica de las nuevas herramientas, los participantes podrán realizar ejercicios para cada clase.
+
+&nbsp;
+&nbsp;
+
+[**PROGRAMA**](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/programas/2022-FEPP-CIENCIA_DE_DATOS_PARA_CIUDADES)
+
+
+&nbsp;
+&nbsp;
+
+# Estructura del curso
+
+**Clase 1: Análisis y geoprocesamiento de datos**  
+Trabajando con información georreferenciada. Cruzando datos en base a su posición: uniones espaciales. Descarga de "mapas base" para agregar contexto. Repaso de sf e introducción a ggmap.
+
+&nbsp;
+
+**Clase 2: Descarga y análisis de datos espaciales**  
+Acceso a información urbana georeferenciada en repositorios online. Descarga y análisis de datos espaciales publicados en OpenStreetMap. Introducción al paquete osmdata.
+
+&nbsp;
+
+**Clase 3: Descarga y análisis de datos de redes sociales**  
+Extrayendo información de repositorios online. Minería de redes sociales (Twitter). Generación de mapas interactivos. Introducción a rtweet y a leaflet.
+
+&nbsp;
+
+**Clase 4: Geolocalización de información**  
+Obteniendo coordenadas en base a direcciones. Introducción al paquete tmaptools y al paquete hereR.
+
+&nbsp;
+
+**Clase 5: Análisis de movimientos y flujos urbanos**
+Visualizando movimiento en la Ciudad. Estimando rutas de conexión. Mapeo de flujos urbanos. Introducción al paquete osrm.
+
+
+

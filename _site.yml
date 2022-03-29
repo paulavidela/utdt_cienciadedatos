@@ -13,9 +13,9 @@ navbar:
     - text: "Cursos"
       menu:
         - text: "FEPP - Introducción a la ciencia de datos"
-          href: index.html
+          href: fepp-cdc1.html
         - text: "FEPP - Ciencia de datos para ciudades"
-          href: index.html
+          href: fepp-cdc2.html
         - text: "EPP - Taller de Ciencia de datos"
           href: epp-taller.html
         - text: "MEU - Ciencia de datos I"
@@ -24,8 +24,10 @@ navbar:
           href: index.html
         - text: "MPP - Ciencia de datos"
           href: index.html
+        - text: "MPP - Instrumentos de análisis territorial"
+          href: index.html
     - text: "Bibliografía"
-      href: index.html
+      href: bibliografia.html
     - text: "Quienes somos"
       href: about.html
     - text: "UTDT"
