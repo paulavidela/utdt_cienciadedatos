@@ -16,7 +16,7 @@ navbar:
           href: fepp-cdc1.html
         - text: "FEPP - Ciencia de datos para ciudades"
           href: fepp-cdc2.html
-        - text: "EPP - Taller de Ciencia de datos"
+        - text: "EPP - Clínica de Datos"
           href: epp-taller.html
         - text: "MEU - Ciencia de datos I"
           href: index.html

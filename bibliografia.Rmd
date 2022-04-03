@@ -24,13 +24,42 @@ knitr::opts_chunk$set(echo = FALSE)
 [Geocomputation with R (Robin Lovelace, Jakud Nowosad, Jannes Muenchow)](https://geocompr.robinlovelace.net/)  
 [Spatial Data Science with R](https://rspatial.org/raster/index.html)  
 [Urban Spatial Analysis Blog](http://urbanspatialanalysis.com/blog/ )  
-
+[Public Policy Analytics: Code & Context for Data Science in Government (Ken Steif)](https://urbanspatial.github.io/PublicPolicyAnalytics/)
 
 </br> 
 
-## OTROS LINKS
+## OTROS LINKS  
 
-[INSTALACIÓN DE R Y RSTUDIO](https://docs.google.com/document/d/1XtZyCzL6yJwDHsxtwsNO-qdpumNusnlstRrSWjjIyRg/edit)
+[INSTALACIÓN DE R Y RSTUDIO](https://docs.google.com/document/d/1XtZyCzL6yJwDHsxtwsNO-qdpumNusnlstRrSWjjIyRg/edit)  
+</br> 
+[IMPORTAR UN DATASET](https://rpubs.com/angiescetta/importar-dataset)  
+</br> 
+
+**FUNCIONES DE TIDYVERSE**  
+[gather + spread](https://rpubs.com/angiescetta/gather-spread)  
+[factor + left_join + substr + ifelse + case_when](https://rpubs.com/paulavidela/funciones-tidyverse)  
+
+</br> 
+**SOBRE R MARKDOWN**  
+[Nuevo proyecto en R y nuevo Rmarkdown](https://rpubs.com/angiescetta/conociendo-R)  
+[Presentación R y Rmarkdown](https://rpubs.com/angiescetta/presentacion-big-data-ciudad)  
+[Rmarkdown oficial](https://rmarkdown.rstudio.com/index.html)  
+
+</br> 
+[PUBLICAR UN HTML EN RPUBS](https://rpubs.com/angiescetta/publicar-html)  
+
+</br> 
+**SOBRE VISUALIZACIONES**    
+[Ajustes estéticos en ggplot](https://rpubs.com/angiescetta/ajustes-esteticos-ggplot)  
+[Escala de color brewer](https://colorbrewer2.org)  
+[Data-to-viz: graficos apropiados](https://www.data-to-viz.com/)  
+[Rgraph: gráficos en R](https://www.r-graph-gallery.com/)  
+[Página oficial ggplot](https://ggplot2-book.org/)  
 
 
+**SOBRE ESTADÍSTICAS**    
+[OpenIntro Statistics](https://leanpub.com/os)  
+[Ejemplo regresiones en R](https://rpubs.com/angiescetta/regresion-lineal)  
+[Ejemplo 2 regresiones en R](https://rpubs.com/paulavidela/relacion-variables)  
+ 
 

@@ -74,7 +74,7 @@ Manuales de clase:
 Introducción a la manipulación de fechas y horas con lubridate. 
 
 Manuales de clase:  
-[Rpubs: Introducción a lubridate](https://rpubs.com/paulavidela/fechas)
+[Rpubs: Introducción a lubridate](https://rpubs.com/paulavidela/patronestemporales)
 
 
 ### Desafío
