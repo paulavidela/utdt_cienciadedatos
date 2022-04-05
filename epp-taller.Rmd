@@ -40,7 +40,7 @@ Cada encuentro tendrá una parte teórica donde los docentes presentarán los co
 Introducción a R y RStudio, instalación. Abrir el entorno y cargar un dataset.  
 
 Manuales de clase:  
-[Rpubs: Introducción a R](https://rpubs.com/angiescetta/presentacion-big-data-ciudad)
+[Rpubs: Introducción a R](https://rpubs.com/angiescetta/EPP_PRACTICA1)
 
 
 
@@ -48,7 +48,7 @@ Manuales de clase:
 Análisis exploratorio de datos: Data wrangling con tidyverse.
 
 Manuales de clase:  
-[Big data urbana: manipulación de datos](https://angiescetta.github.io/big-data-urbana/manipulaci%C3%B3n-de-datos.html)
+[Rpubs: Procesamiento de datos](https://rpubs.com/angiescetta/EPP_PRACTICA2)
 
 
 ### Desafío
@@ -92,7 +92,7 @@ Manuales de clase:
 Información geográfica: introducción a sf - geoprocesos 
 
 Manuales de clase:  
-[Big data urbana: información geográfica](https://angiescetta.github.io/big-data-urbana/informaci%C3%B3n-geogr%C3%A1fica-y-mapas.html)
+[Big data urbana: información geográfica](https://angiescetta.github.io/big-data-urbana/informaci%C3%B3n-geogr%C3%A1fica-y-mapas.html)  
 [Rpubs: Geoprocesamientos](https://rpubs.com/paulavidela/funciones-sf)
 
 
