@@ -1,0 +1,69 @@
+---
+title: "Taller de Ciencia de Datos"
+description: "Maestría en Políticas Públicas"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Sobre el curso
+
+Es un curso introductorio a herramientas de Ciencias de Datos orientado al análisis de políticas públicas. Se llevará a cabo en formato virtual durante los siguientes días y horarios:  
+- Martes 26/07 de 19:15 a 21:45hs.   
+- Martes 02/08 de 19:15 a 21:45hs.   
+- Martes 09/08 de 19:15 a 21:45hs.   
+- Martes 16/08 de 19:15 a 21:45hs.   
+- Martes 23/08 de 19:15 a 21:45hs.   
+&nbsp;
+
+Para cada clase se prevé una breve introducción teórica. Luego se desarrollará un taller, durante el cual se pondrán en práctica las técnicas contempladas en el temario. Para fomentar la práctica de las nuevas herramientas, los participantes podrán realizar ejercicios para cada clase.
+
+&nbsp;
+&nbsp;
+
+[**PROGRAMA**](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/programas/2022-MPP-TALLER_DE_CIENCIA_DE_DATOS.pdf)
+
+
+&nbsp;
+&nbsp;
+
+# Estructura del curso
+
+**Clase 1: Big Data y Ciudad**  
+Definiciones, análisis de casos, el futuro. Nuevos roles en la planificación urbana. Laboratorios de gobierno, oficinas de análisis de datos, promotores de datos abiertos. Introducción a R, el entorno para analizar, modelar, visualizar y comunicar con datos.    
+
+&nbsp; 
+
+**Clase 2: Análisis exploratorio**  
+Data wrangling: limpiando y ordenando datos hallados. Introducción a tidyverse y sus funciones: select, filter, mutate, arrange, rename.  
+
+&nbsp; 
+
+**Clase 3: Preprocesamiento de los datos**  
+Técnicas fundamentales para la transformación de datos. Cruce de fuentes de datos. Más funciones de tidyverse: group_by, summarise, left_join, case_when, if_else, substr, gather, spread.  
+
+&nbsp; 
+
+**Clase 4: Visualizaciones**  
+Narrando la ciudad con información. Cómo elegir la visualización adecuada para cada tipo de análisis.  
+
+&nbsp; 
+
+**Clase 5: Información geográfica y mapas**
+Datos georreferenciados. Visualizando información geográfica. Capas y geometrías. Introducción al paquete sf.
+
+&nbsp;
+
+# Modalidad de evaluación
+
+Para aprobar la materia, los alumnos deberán realizar 5 ejercicios  a partir del análisis de datos mediante las herramientas dictadas en el curso. En cada ejercicio se evaluarán los contenidos de cada clase. La temática es a elección de los participantes, previa aprobación docente.  
+
+
+

@@ -19,11 +19,11 @@ navbar:
         - text: "EPP - Clínica de Datos"
           href: epp-taller.html
         - text: "MEU - Ciencia de datos I"
-          href: index.html
+          href: meu-cdc1.html
         - text: "MEU - Ciencia de datos II"
           href: index.html
         - text: "MPP - Ciencia de datos"
-          href: index.html
+          href: mpp-cdc.html
         - text: "MPP - Instrumentos de análisis territorial"
           href: index.html
     - text: "Bibliografía"

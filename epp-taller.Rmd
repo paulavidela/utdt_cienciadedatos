@@ -66,7 +66,7 @@ Manuales de clase:
 Visualización de datos: Introducción a ggplot.
 
 Manuales de clase:  
-[Big data urbana: Análisis y visualización](https://angiescetta.github.io/big-data-urbana/an%C3%A1lisis-y-visualizaci%C3%B3n-de-datos.html)
+[Rpubs: Visualizaciones](https://rpubs.com/paulavidela/visualizaciones)
 
 
 
