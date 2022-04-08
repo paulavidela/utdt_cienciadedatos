@@ -4,7 +4,7 @@ subtitle: "Especialización en Políticas Públicas | Clínica de Datos | Vierne
 output: html_document
 ---
 
----
+
 
 ### Sobre los datos
 
@@ -27,24 +27,16 @@ El 19 de marzo de 2020 se declaró el Aislamiento Social Preventivo y Obligatori
 
 **Transformar la variable 'fecha' a tipo fecha**
 
-```{r}
-
-```
 
 
 **Determinar el día de la semana de cada delito**
 
-```{r}
 
-```
 
 
 **Mostrar un resumen estádistico de los resultados**  
 ¿Qué dia de la semana ocurrieron más delitos? 
 
-```{r}
-
-```
 
 
 
@@ -55,9 +47,7 @@ El 19 de marzo de 2020 se declaró el Aislamiento Social Preventivo y Obligatori
 Realizar un gráfico de barras que muestre la cantidad de delitos por periodo.  
 Comentar sobre lo observado. ¿Cuál es el efecto de la gestión de la pandemia en relación a la cantidad de delitos?
 
-```{r}
 
-```
 
 
 
@@ -67,9 +57,6 @@ Realizar un gráfico puntos a partir de la latitud (y) y la longitud (x).
 Comentar la forma resultante. 
 
 
-```{r}
-
-```
 
 
 **Gráfico línea**  
@@ -77,18 +64,11 @@ Comentar la forma resultante.
 Realizar un gráfico línea que muestre la variación diaria de delitos entre el 1 de Marzo de 2020 y el 30 de Abril de 2020. Comentar los resultados. ¿Cuál es el efecto de la gestión de la pandemia en relación a la cantidad de delitos?
 
 
-```{r}
-
-```
-
 **Bonus!**  
 **Gráfico de cajas**
 
 Evaluar la distribución de la cantidad de delitos según día de la semana. Comentar los resultados.
 
-```{r}
-
-```
 
 
 
