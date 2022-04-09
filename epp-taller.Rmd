@@ -91,14 +91,17 @@ Manuales de clase:
 #### Práctica 5
 Información geográfica: introducción a sf - geoprocesos 
 
-Manuales de clase:  
+Manuales de clase:    
+[Rpubs: Información espacial](https://rpubs.com/angiescetta/informacion-espacial)  
+
+**Links adicionales**
 [Big data urbana: información geográfica](https://angiescetta.github.io/big-data-urbana/informaci%C3%B3n-geogr%C3%A1fica-y-mapas.html)  
 [Rpubs: Geoprocesamientos](https://rpubs.com/paulavidela/funciones-sf)
 
 
 ### Desafío
 [Consignas](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/desafio3.pdf) - [Descargar Rmd](epp-clinica/desafio3_template.Rmd)  
-[Descargar dataset 1: delitos](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/delitos2019-2020.csv) - [Descargar dataset 2: barrios](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/barrios.geojson) -  [Descargar dataset 3: barrios](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/comunas.geojson)
+[Descargar dataset 1: delitos (no descargar de nuevo)](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/delitos2019-2020.csv) - [Descargar dataset 2: barrios](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/barrios.geojson) -  [Descargar dataset 3: barrios](https://github.com/paulavidela/utdt_cienciadedatos/raw/main/epp-clinica/comunas.geojson)
 
 
 

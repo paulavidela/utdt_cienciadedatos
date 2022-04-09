@@ -4,7 +4,7 @@ subtitle: "Especialización en Políticas Públicas | Clínica de Datos | Sábad
 output: html_document
 ---
 
----
+
 
 ### Sobre los datos
 
@@ -35,20 +35,14 @@ Realizar un mapa donde se visualicen los delitos de 2020. Usar como base la deli
 
 ### Mapas coropléticos  
 
- 
 
-#### Parte A  
-
-Se busca determinar la cantidad de delitos por comuna en 2020 y en 2019, con el objetivo de visualizar donde se concentran la mayor cantidad de delitos,
+Se busca determinar la cantidad de delitos por comuna en 2020 y en 2019, con el objetivo de visualizar donde se concentran la mayor cantidad de delitos. Realizar un mapa para cada año mostrando la cantidad de delitos para cada comuna. 
 Comentar los resultados
 
 
 
 
-#### Parte B 
 
-Finalmente, se decide obtener más granularidad en los datos, y trabajar con la cantidad de delitos de nivel de barrio para el año 2020. Calcular la cantidad de delitos por km2, y la cantidad de delitos por habitantes. Analizar los resultados.  
-*Es necesario, primero, incorporar la variable de "barrios" al dataset de delitos a partir de un geoprocesamiento*
 
 
 
