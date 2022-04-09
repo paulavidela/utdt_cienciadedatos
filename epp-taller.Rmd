@@ -94,7 +94,7 @@ Información geográfica: introducción a sf - geoprocesos
 Manuales de clase:    
 [Rpubs: Información espacial](https://rpubs.com/angiescetta/informacion-espacial)  
 
-**Links adicionales**
+**Links adicionales**  
 [Big data urbana: información geográfica](https://angiescetta.github.io/big-data-urbana/informaci%C3%B3n-geogr%C3%A1fica-y-mapas.html)  
 [Rpubs: Geoprocesamientos](https://rpubs.com/paulavidela/funciones-sf)
 
