@@ -39,8 +39,7 @@ Para cada clase se prevé una breve introducción teórica. Luego se desarrollar
 **Clase 1: Big Data y Ciudad**  
 Definiciones, análisis de casos, el futuro. Nuevos roles en la planificación urbana. Laboratorios de gobierno, oficinas de análisis de datos, promotores de datos abiertos. Introducción a R, el entorno para analizar, modelar, visualizar y comunicar con datos.   
 &nbsp; 
-Manual de clase:  
-[Rpubs: Introducción a R](https://rpubs.com/angiescetta/EPP_PRACTICA1)
+
 
 
 &nbsp; 
@@ -48,8 +47,7 @@ Manual de clase:
 **Clase 2: Análisis exploratorio**  
 Data wrangling: limpiando y ordenando datos hallados. Introducción a tidyverse y sus funciones: select, filter, mutate, arrange, rename.   
 &nbsp; 
-Manual de clase:  
-[Rpubs: Procesamiento de datos](https://rpubs.com/angiescetta/EPP_PRACTICA2)
+
 
 &nbsp; 
 
